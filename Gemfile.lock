@@ -92,7 +92,6 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  jekyll (~> 3.8.7)
   jekyll-compose
   jekyll-feed (~> 0.12)
   jekyll-theme-so-simple (~> 3.2)
