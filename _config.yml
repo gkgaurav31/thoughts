@@ -29,7 +29,7 @@ github_username:  jekyll
 permalink: :slug
 
 # Build settings
-theme: jekyll-theme-so-simple
+remote_theme: jekyll-theme-so-simple
 plugins:
   - jekyll-feed
 
