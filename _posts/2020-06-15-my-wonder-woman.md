@@ -7,7 +7,7 @@ date: 2020-06-15 15:02 +0530
 > You can't stay in your corner of the forest waiting for others to come to you. You have to go to them, some times. 
 > -- Winnie the Pooh
 
-A moment back I realized that I keep thinking and talking about things that I don't like. Rather, I should be sharing things I love about you. That there's really a lot to say here. To be completely honest, I am also writing this to let you know how imporant you are in my life and give you at least one reason to stay. I don't do a good job in showing that, but it doesn't mean that I don't value you. Anyway, I'll try to keep to keep this not-so-short, so that you can really see the effort I took. :smirk:
+A moment back I realized that I keep thinking and cribbing about things that I don't like. Rather, I should be sharing things I love about you. That there's really a lot to say here. To be completely honest, I am also writing this to let you know how imporant you are in my life and give you at least one reason to stay. I don't do a good job in showing that, but it doesn't mean that I don't value you. Anyway, I'll try to keep to keep this not-so-short, so that you can really see the effort I took. :smirk:
 
 It took me less than 5 seconds to come up with the title of this post. Obviously, you are wonderful, and make my life amazing as well. I feel lucky to have you in my life, and even luckier that you ended up being my girlfriend. It has been an amazing journey till now, and I am pretty sure that we'll have even better days going forward. I don't care if we fight over petty issues. I don't care if you shout at me or abuse me (well, some times). I just care about one thing, and that is to know whether I mean something to you.  
 
