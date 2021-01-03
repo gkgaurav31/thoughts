@@ -4,9 +4,8 @@ title: Akshat's Bucket List - 2021
 date: 2021-01-03 19:21 +0530
 ---
 
-### POINTS GAINED: 300
-
-### TASKS COMPLETE: 1/50
+> __POINTS GAINED: 300__  
+> __TASKS COMPLETE: 1/50__
 
 1. LEARN UKULELE : 1000
 
