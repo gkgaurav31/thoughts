@@ -103,4 +103,6 @@ __[STICKMAN SOUL](https://www.youtube.com/watch?v=zWAmzWRUdzc)__
 
 47. ~~CREATE YOUR BOOKMARK : 100~~
 
-[THREE MORE TO ADD]
+48. FLY A KITE! : 600
+
+[TWO MORE TO ADD]
