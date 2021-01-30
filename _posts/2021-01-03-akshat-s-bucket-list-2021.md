@@ -4,8 +4,8 @@ title: Akshat's Bucket List - 2021
 date: 2021-01-03 19:21 +0530
 ---
 
-> __POINTS GAINED: 1200__  
-> __TASKS COMPLETE: 3/50__
+> __POINTS GAINED: 2200__  
+> __TASKS COMPLETE: 4/50__
 
 1. LEARN UKULELE : 2000
 
@@ -54,7 +54,9 @@ date: 2021-01-03 19:21 +0530
 
 23. COOK ANYTHING SIMPLE (LIKE MAGGI) : 200
 
-24. LEARN CYCLING : 2000
+24. ~~LEARN CYCLING : 2000~~  
+:heavy_check_mark: __[Day 1 - Learning to cycle!](https://www.youtube.com/watch?v=vEZU4ydoxls&feature=youtu.be)__
+![snapshot]({{ site.baseurl }}/assets/akshat_cycle.jpg)
 
 25. LEARN SWIMMING : 2000
 
@@ -104,4 +106,6 @@ date: 2021-01-03 19:21 +0530
 
 48. FLY A KITE! : 600
 
-[TWO MORE TO ADD]
+49. LEARN TO WISTLE : 2000
+
+[ONE MORE TO ADD]
