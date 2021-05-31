@@ -4,8 +4,8 @@ title: Akshat's Bucket List - 2021
 date: 2021-01-03 19:21 +0530
 ---
 
-> __POINTS GAINED: 2200__  
-> __TASKS COMPLETE: 4/50__
+> __POINTS GAINED: 6900__  
+> __TASKS COMPLETE: 7/50__
 
 1. LEARN UKULELE : 2000
 
@@ -17,17 +17,21 @@ date: 2021-01-03 19:21 +0530
 
 5. RECORD A SONG ON LAPTOP WITH MIC : 200
 
-6. READ A NOVEL : 1000
+6. ~~READ A NOVEL : 1000~~
+   [This is a special task where you will get 1000 points for every book you ready. 2000 for the first 10 books.]
+    + 2000 (The Nameless God by Savie Karnel)
+    + 2000 (Diary of Wimpy Kid - The original by Jeff Kinney)
 
 7. MEMORIZE THE VALUE OF Pi UPTO 20 DECIMAL PLACES : 200
 
-8. WAKE UP AT 4 AM AND GO FOR A WALK : 200
+8. ~~WAKE UP AT 4 AM AND GO FOR A WALK : 200~~
 
 9. MAKE YOUR OWN SLING SHOT : 200
 
 10. WRITE AN ESSAY ON ANY DOCUMENTARY YOU HAVE WATCHED : 500
 
-11. BUILD A SCULPTURE/MODEL USING PLASTER OF PARIS : 300
+11. ~~BUILD A SCULPTURE/MODEL USING PLASTER OF PARIS/CLAY : 300~~  
+    || __YouTube:__ [Among Us | Clay Modelling | Akshat & Gaurav](https://www.youtube.com/watch?v=VsYp2Ubce1k)
 
 12. LIGHT LED USING RASPBERRY PI : 900
 
@@ -52,7 +56,8 @@ date: 2021-01-03 19:21 +0530
 
 22. SKETCH (WITH PENCILS) YOUR FAVOURITE CARTOON CHARACTER : 200
 
-23. COOK ANYTHING SIMPLE (LIKE MAGGI) : 200
+23. ~~COOK ANYTHING SIMPLE (LIKE MAGGI) : 200~~
+![snapshot]({{ site.baseurl }}/assets/akshat_cooking.jpg)
 
 24. ~~LEARN CYCLING : 2000~~  
 :heavy_check_mark: __[Day 1 - Learning to cycle!](https://www.youtube.com/watch?v=vEZU4ydoxls&feature=youtu.be)__
