@@ -4,8 +4,8 @@ title: Akshat's Bucket List - 2021
 date: 2021-01-03 19:21 +0530
 ---
 
-> __POINTS GAINED: 6900__  
-> __TASKS COMPLETE: 7/50__
+> __POINTS GAINED: 7500__  
+> __TASKS COMPLETE: 10/50__
 
 1. LEARN UKULELE : 2000
 
@@ -15,7 +15,8 @@ date: 2021-01-03 19:21 +0530
 
 4. PAINT A PORTRAIT USING CHARCOAL PENCIL : 800
 
-5. RECORD A SONG ON LAPTOP WITH MIC : 200
+5. ~~RECORD A SONG ON LAPTOP WITH MIC : 600~~
+[Superstitious Foundation | Cover | Akshat](https://www.youtube.com/watch?v=31rYB2IGGBg&feature=youtu.be)
 
 6. ~~READ A NOVEL : 1000~~  
    [This is a special task where you will get 1000 points for every book you read. 2000 for the first 10 books each.]
