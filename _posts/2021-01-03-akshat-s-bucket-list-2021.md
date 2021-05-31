@@ -17,8 +17,8 @@ date: 2021-01-03 19:21 +0530
 
 5. RECORD A SONG ON LAPTOP WITH MIC : 200
 
-6. ~~READ A NOVEL : 1000~~
-   [This is a special task where you will get 1000 points for every book you ready. 2000 for the first 10 books.]
+6. ~~READ A NOVEL : 1000~~  
+   [This is a special task where you will get 1000 points for every book you read. 2000 for the first 10 books each.]
     + 2000 (The Nameless God by Savie Karnel)
     + 2000 (Diary of Wimpy Kid - The original by Jeff Kinney)
 
