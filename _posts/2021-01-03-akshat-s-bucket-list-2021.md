@@ -4,7 +4,7 @@ title: Akshat's Bucket List - 2021
 date: 2021-01-03 19:21 +0530
 ---
 
-> __POINTS GAINED: 7500__  
+> __POINTS GAINED: 11500__  
 > __TASKS COMPLETE: 10/50__
 
 1. LEARN UKULELE : 2000
@@ -22,6 +22,8 @@ date: 2021-01-03 19:21 +0530
    [This is a special task where you will get 1000 points for every book you read. 2000 for the first 10 books each.]
     + 2000 (The Nameless God by Savie Karnel)
     + 2000 (Diary of Wimpy Kid - The original by Jeff Kinney)
+    + 2000 (Diary of Wimpy Kid - Rodrick Rules)
+    + 2000 (Diary of Wimpy Kid - The Last Straw)
 
 7. MEMORIZE THE VALUE OF Pi UPTO 20 DECIMAL PLACES : 200
 
